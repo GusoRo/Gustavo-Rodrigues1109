@@ -17,7 +17,7 @@
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Gustavo-Rodrigues1109&theme=chartreuse-dark&hide_border=true"/> </p>
 
-![Snake animation](https://github.com/Gustavo-Rodrigues1109/Gustavo-Rodrigues1109/blob/output/github-contribution-grid-snake.svg)
+
 
 ```bash
 public static void main(String[] args) {
